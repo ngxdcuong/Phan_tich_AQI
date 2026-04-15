@@ -1,7 +1,7 @@
 # Đề tài: Phân tích Dữ liệu Chất lượng Không khí (AQI) tại Hà Nội
 
 **Môn học:** Lập trình Python  
-**Nhóm thực hiện:** Nhóm ... (Điền tên nhóm của bạn vào đây)
+**Nhóm thực hiện:** Nhóm 21
 
 ## Thành viên nhóm và Phân công
 1. **[Nguyễn Đức Cường] - MSV: [20222582]** - Trưởng nhóm, phụ trách Thu thập & Tiền xử lý dữ liệu (Data Cleaning).
